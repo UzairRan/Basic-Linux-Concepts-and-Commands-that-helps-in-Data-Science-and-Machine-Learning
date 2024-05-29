@@ -14,4 +14,5 @@ Remove files: rm file2.txt - Deleted file2.txt.
 Remove directories: rm -r data - Removed the data directory and its contents.
 These commands are essential for file management and organizing your projects efficiently!
 
+# Tutorial video
  video for running above commands on linux terminal:  https://youtu.be/nMCmJlCtdqA
