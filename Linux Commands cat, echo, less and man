@@ -1,0 +1,15 @@
+ A quick video demonstrating the practical uses of some essential Linux commands. 
+
+1️⃣ cat - Display file contents effortlessly. cat filename 
+ Use Case: Quickly view the entire content of a file in one go.
+
+2️⃣ echo - Print a line of text to the terminal. echo "Hello, World!" 
+Use Case: Display messages or variables, great for scripting and debugging.
+
+3️⃣ less - View file contents page by page. less filename 
+Use Case: Easily navigate through large files without overwhelming your screen.
+
+4️⃣ man - Access the manual for any command. man ls 
+ Use Case: Get detailed information and options for commands directly from the terminal.
+
+# Video Link: https://youtu.be/19NaJNUnSfU
