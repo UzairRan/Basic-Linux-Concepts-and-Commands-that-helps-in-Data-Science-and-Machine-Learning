@@ -1,4 +1,6 @@
-Basic Linux Concepts and Commands for Data Science and Machine Learning
+
+# Basic Linux Concepts and Commands for Data Science and Machine Learning
+
 Welcome to the repository dedicated to essential Linux concepts and commands tailored for data science and machine learning enthusiasts! This collection of projects and notes demonstrates how to effectively use Linux to enhance your data science workflow. From basic file operations to setting up your environment and working with data, you'll find valuable resources and examples to get hands-on with Linux in the data science domain.
 
 Top Linux Commands to Learn
